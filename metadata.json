@@ -1,0 +1,8 @@
+{
+  "name": "Aurora Residence Dashboard",
+  "description": "A high-end virtual tour management platform featuring 360° panorama viewing, interactive maps, AI-powered descriptions, and tour analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
